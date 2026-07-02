@@ -1,0 +1,12 @@
+{
+  "name": "@harjs/create-harjs",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "create-harjs": "./src/index.js"
+  },
+  "dependencies": {
+    "@harjs/react-ui": "^1.1.5",
+    "@harjs/service": "^1.0.5"
+  }
+}
